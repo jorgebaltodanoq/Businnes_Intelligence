@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Adrimpex_Cubo", "Adrimpex_Cubo\Adrimpex_Cubo.dwproj", "{C5053400-6A71-48C8-BF90-04C01A298CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5053400-6A71-48C8-BF90-04C01A298CEC}.Development|Default.ActiveCfg = Development
+		{C5053400-6A71-48C8-BF90-04C01A298CEC}.Development|Default.Build.0 = Development
+		{C5053400-6A71-48C8-BF90-04C01A298CEC}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7941DCE7-7B49-460B-A7DC-BAB8ACA27826}
+	EndGlobalSection
+EndGlobal
